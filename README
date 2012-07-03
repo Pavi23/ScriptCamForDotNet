@@ -1,0 +1,12 @@
+ScriptCam is a popular JQuery plugin to manipulate webcams.
+It works a flash component to access your web camera.
+Here's the plugin website: http://www.scriptcam.com/
+
+I wanted to integrate it to an Asp.Net page for only capturing images.
+It all works with javascript, then when you're done, it stores the data in a Session variable.
+
+That way you can take the capture on client and store the data in server.
+
+I've shared the URL in my personal page also,
+I'll be glad to hear if you have something to say.
+http://www.kubilayerdogan.net/?p=174
